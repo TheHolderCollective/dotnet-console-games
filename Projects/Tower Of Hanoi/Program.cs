@@ -60,7 +60,7 @@ GetDiskCount:
 		case ConsoleKey.D4 or ConsoleKey.NumPad4: disks = 4; break;
 		case ConsoleKey.D5 or ConsoleKey.NumPad5: disks = 5; break;
 		case ConsoleKey.D6 or ConsoleKey.NumPad6: disks = 6; break;
-		case ConsoleKey.D7 or ConsoleKey.NumPad3: disks = 7; break;
+		case ConsoleKey.D7 or ConsoleKey.NumPad7: disks = 7; break;
 		case ConsoleKey.D8 or ConsoleKey.NumPad8: disks = 8; break;
 		case ConsoleKey.Escape: return;
 		default: goto GetDiskCount;
